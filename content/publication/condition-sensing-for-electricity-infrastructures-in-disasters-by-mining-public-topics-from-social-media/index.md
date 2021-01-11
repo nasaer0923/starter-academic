@@ -8,8 +8,7 @@ authors:
   - Angel Umana
   - Chaowei Yang
   - and Wenying Ji
-publication: Submitted to the 18th annual conference on Information Systems for
-  Crisis Response and Management
+publication: Submitted to the 18th annual conference on Information Systems for Crisis Response and Management
 abstract: Timely and reliable sensing of infrastructure conditions is critical
   in disaster management for planning effective infrastructure restorations.
   Social media, a near real-time information source, has been widely used in
