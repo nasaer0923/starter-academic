@@ -27,7 +27,7 @@ featured: true
 projects:
   - Infrastructure resilience enhancement
 image:
-  filename: showcase.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: "Geographic distributions of the three types of LDI for IH-45 on Aug. 29th "
