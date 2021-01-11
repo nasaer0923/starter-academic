@@ -23,12 +23,13 @@ abstract: A timely and reliable assessment of disaster impacts on highways is
   the highway high-water incidents data collected by the Texas Department of
   Transportation (TxDOT).
 draft: false
-featured: false
+featured: true
 projects:
   - Infrastructure resilience enhancement
 image:
   filename: showcase.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Geographic distributions of the three types of LDI for IH-45 on Aug. 29th "
 date: 2021-01-11T02:13:12.627Z
 ---
