@@ -1,6 +1,5 @@
 ---
-title: "Assessing Disaster Impacts on Highways Using Social Media:  Case Study
-  of Hurricane Harvey"
+title: "Assessing Disaster Impacts on Highways Using Social Media:  Case Study of Hurricane Harvey"
 publication_types:
   - "1"
 authors:
@@ -35,5 +34,5 @@ image:
   preview_only: false
   caption: Geographic distributions of the social media activities (Pre-disaster,
     during-disaster, and post-disaster)
-date: 2021-01-11T03:26:20.411Z
+date: 2020-01-11T03:26:20.411Z
 ---
