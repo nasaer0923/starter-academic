@@ -32,7 +32,7 @@ draft: false
 featured: false
 image:
   filename: highway-map.jpg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
   caption: Geographic distributions of the social media activities (Pre-disaster,
     during-disaster, and post-disaster)
