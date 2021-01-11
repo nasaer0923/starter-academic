@@ -4,9 +4,10 @@ role: PhD Candidate
 bio: My research interests include infrastructure resilience, social and
   physical sensing, and big data analytics.
 interests:
-  - infrastrture resilience
-  - social media mining
-  - machine learning
+  - Infrastrture resilience
+  - Human-cyber-phiscal system
+  - Social media learning
+  - Machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,11 +30,11 @@ organizations:
 education:
   courses:
     - course: Mechanical Engineering
-      institution: Beihang Univeristy
-      year: 2015
-    - course: Mechanical Engineering
       institution: Beihang University
       year: 2010
+    - course: Mechanical Engineering
+      institution: Beihang Univeristy
+      year: 2015
     - course: Construction Project Management
       institution: George Mason Univeristy
       year: 2021
