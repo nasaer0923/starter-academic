@@ -1,16 +1,4 @@
 ---
-title: "Assessing Disaster Impacts on Highways Using Social Media: Case Study of
-  Hurricane Harvey"
-view: 4
-header:
-  caption: ""
-  image: ""
-publication_types:
-  - "1"
-authors:
-  - Yudi Chen; Qi Wang
-  - Ph.D.; and Wenying Ji
-  - Ph.D.
 abstract: "During and after disasters, highways provide vital routes for
   emergency services, relief efforts, and evacuation activities. Thus, a timely
   and reliable assessment of disaster impacts on highways is critical for
@@ -32,7 +20,21 @@ abstract: "During and after disasters, highways provide vital routes for
   that the proposed approach is capable of capturing the temporal patterns of
   disaster impacts on highways. Official news and reports are employed to
   validate the assessed impacts."
+view: 4
+title: "Assessing Disaster Impacts on Highways Using Social Media: Case Study of
+  Hurricane Harvey"
+publication_types:
+  - "1"
+authors:
+  - Yudi Chen; Qi Wang
+  - Ph.D.; and Wenying Ji
+  - Ph.D.
+header:
+  caption: ""
+  image: ""
 tags:
   - infrastrture resilience enhancement
+image:
+  filename: highway-map.jpg
 date: 2021-01-11T02:03:49.544Z
 ---
