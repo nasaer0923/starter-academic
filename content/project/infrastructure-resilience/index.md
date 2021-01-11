@@ -5,10 +5,10 @@ draft: false
 featured: false
 tags:
   - Infrastructure Resilience
-external_link: https://www.yudi-chen.com/#contact
 image:
   filename: showcase.jpg
   focal_point: Smart
   preview_only: false
   caption: Research framework
 ---
+TBD
