@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 title: A Bayesian-Based Approach for Public Sentiment Modeling
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - infrastrture resilience enhancement
