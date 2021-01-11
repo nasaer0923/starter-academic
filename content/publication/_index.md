@@ -32,9 +32,13 @@ authors:
 header:
   caption: ""
   image: ""
-tags:
-  - infrastrture resilience enhancement
+tags: []
+categories: []
+projects:
+  - Infrastrture resilience
 image:
   filename: highway-map.jpg
+  caption: Geographic distributions of the social media activities (Pre-disaster,
+    during-disaster, and post-disaster)
 date: 2021-01-11T02:03:49.544Z
 ---
