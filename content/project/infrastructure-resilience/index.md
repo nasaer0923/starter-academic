@@ -6,7 +6,7 @@ featured: false
 tags:
   - Infrastructure Resilience
 image:
-  filename: showcase.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Research framework
