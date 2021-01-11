@@ -20,9 +20,7 @@ publication_types:
   - "1"
 authors:
   - Yudi Chen; Wenying Ji; Qi Wang
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *2019 Winter Simulation Conference (WSC)*
 summary: ""
 url_dataset: ""
@@ -37,7 +35,7 @@ tags: []
 projects:
   - infrastrture resilience enhancement
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: Daily negative sentiment probability for the first two weeks
   focal_point: ""
   preview_only: false
   filename: daily-negative-sentiment-probability.jpg
