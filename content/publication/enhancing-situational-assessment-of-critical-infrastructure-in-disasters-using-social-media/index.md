@@ -8,6 +8,8 @@ authors:
 publication: Submitted to Journal of Management in Engineering
 draft: false
 featured: false
+projects:
+  - Infrastructure resilience enhancement
 image:
   filename: featured
   focal_point: Smart
