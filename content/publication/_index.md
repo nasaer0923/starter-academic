@@ -26,9 +26,8 @@ title: "Assessing Disaster Impacts on Highways Using Social Media: Case Study of
 publication_types:
   - "1"
 authors:
-  - Yudi Chen; Qi Wang
-  - Ph.D.; and Wenying Ji
-  - Ph.D.
+  - Yudi Chen
+  - Qi Wang and Wenying Ji
 header:
   caption: ""
   image: ""
