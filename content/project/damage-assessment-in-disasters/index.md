@@ -1,5 +1,5 @@
 ---
-title: Damage assessment in disasters
+title: Disaster Damage on Built Environment
 date: 2021-01-11T03:19:23.708Z
 draft: false
 featured: false
