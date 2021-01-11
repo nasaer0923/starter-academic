@@ -6,7 +6,7 @@ featured: false
 tags:
   - Other
 image:
-  filename: showcase.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Research framework
