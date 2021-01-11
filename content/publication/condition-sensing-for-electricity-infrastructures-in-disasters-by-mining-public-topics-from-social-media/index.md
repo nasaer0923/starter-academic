@@ -33,7 +33,7 @@ projects:
   - Infrastructure resilience enhancement
 image:
   filename: showcase.jpg
-  focal_point: CENTER
+  focal_point: ""
   preview_only: false
 date: 2021-01-11T02:04:30.500Z
 ---
