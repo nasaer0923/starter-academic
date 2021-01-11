@@ -31,5 +31,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: "Geographic distributions of the three types of LDI for IH-45 on Aug. 29th "
-date: 2021-01-11T02:13:12.627Z
+date: 2020-07-02T02:21:53.821Z
 ---
