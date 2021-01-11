@@ -33,7 +33,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - infrastrture resilience enhancement
+  - infrastrture resilience
 image:
   caption: Daily negative sentiment probability for the first two weeks
   focal_point: ""
