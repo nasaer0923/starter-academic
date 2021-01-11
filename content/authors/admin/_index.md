@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi there. My name is Yudi Chen, and I am currently a Ph.D. Candidate at the Department of Civil, Environmental, and Infrastructure Engineering, George Masson University. I am interested in the interplay between critical infrastructure and big data analytics. Generally, my research focuses on two interrelated areas: integrating social and physical sensing for enhanced infrastructure management in disasters and understanding infrastructure-related public opinions to enhance community resilience.
+Hello, my name is Yudi Chen. Currently, I am a Ph.D. Candidate at the Department of Civil, Environmental, and Infrastructure Engineering, George Masson University. My research interest lies in the interplay between critical infrastructure and big data analytics. It could be categorized into two interrelated areas: (1) integrating social and physical sensing for enhanced infrastructure management in disasters and (2) understanding infrastructure-related public opinions to enhance community resilience.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
