@@ -4,7 +4,9 @@ title: Assessing Disaster Impacts on Highways Using Social Media - Case Study of
 publication_types:
   - "1"
 authors:
-  - Yudi Chen, Qi Wang and Wenying Ji
+  - Yudi Chen
+  - Qi Wang
+  - Wenying Ji
 doi: https://doi.org/10.1061/9780784482858.061
 publication: In *2020 Construction Research Congress (CRC)*
 abstract: "During and after disasters, highways provide vital routes for
@@ -28,7 +30,7 @@ abstract: "During and after disasters, highways provide vital routes for
   that the proposed approach is capable of capturing the temporal patterns of
   disaster impacts on highways. Official news and reports are employed to
   validate the assessed impacts. "
-draft: true
+draft: false
 featured: false
 image:
   filename: highway-map.jpg
