@@ -10,8 +10,6 @@ header:
   image: ""
 tags: []
 categories: []
-projects:
-  - Infrastrture resilience
 image:
   filename: ""
   caption: ""
