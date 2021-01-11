@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Yudi Chen and Wenying Ji
-doi: In Revision
+doi: ""
 publication: Submitted to Natural Hazards Review
 draft: false
 featured: false
