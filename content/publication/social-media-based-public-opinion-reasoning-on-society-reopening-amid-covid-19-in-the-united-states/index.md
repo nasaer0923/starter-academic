@@ -10,7 +10,7 @@ authors:
   - Alma Joanna Quintero
   - Chaowei Yang
   - and Wenying Ji
-publication: Submitted to Internation Journal of Digital Earth
+publication: Submitted to International Journal of Digital Earth
 draft: false
 featured: false
 projects:
