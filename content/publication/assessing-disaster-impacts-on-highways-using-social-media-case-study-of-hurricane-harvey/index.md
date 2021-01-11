@@ -1,11 +1,12 @@
 ---
-title: "Assessing Disaster Impacts on Highways Using Social Media:  Case Study of Hurricane Harvey"
+title: Assessing Disaster Impacts on Highways Using Social Media - Case Study of
+  Hurricane Harvey
 publication_types:
   - "1"
 authors:
   - Yudi Chen, Qi Wang and Wenying Ji
+doi: https://doi.org/10.1061/9780784482858.061
 publication: In *2020 Construction Research Congress (CRC)*
-
 abstract: "During and after disasters, highways provide vital routes for
   emergency services, relief efforts, and evacuation activities. Thus, a timely
   and reliable assessment of disaster impacts on highways is critical for
