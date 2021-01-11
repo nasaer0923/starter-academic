@@ -33,7 +33,7 @@ abstract: "During and after disasters, highways provide vital routes for
 draft: false
 featured: false
 image:
-  filename: highway-map.jpg
+  filename: featured.jpg
   focal_point: CENTER
   preview_only: false
   caption: Geographic distributions of the social media activities (Pre-disaster,
