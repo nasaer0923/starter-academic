@@ -7,7 +7,7 @@ date: 2021-01-11T02:22:44.917Z
 categories: []
 external_link: https://scholar.google.com/citations?user=PcD4xjYAAAAJ&hl=en
 url_slides: ""
-title: Society reopening amid COVID-19
+title: Society Reopening Amid COVID-19
 tags:
   - COVID-19
 links: []
