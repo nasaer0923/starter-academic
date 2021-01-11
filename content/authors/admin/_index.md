@@ -1,13 +1,12 @@
 ---
 title: Yudi Chen
 role: PhD Candidate
-bio: My research interests include infrastructure resilience, social and
-  physical sensing, and big data analytics.
+bio: Researcher for urban infrastructure resilience.
 interests:
-  - Infrastrture resilience
-  - Human-cyber-physical system
-  - Social media learning
-  - Machine learning
+  - Infrastrture Resilience
+  - Human-Cyber-Physical System
+  - Social media Mining
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
