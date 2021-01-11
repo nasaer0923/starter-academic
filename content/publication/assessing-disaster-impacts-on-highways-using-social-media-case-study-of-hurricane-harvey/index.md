@@ -28,7 +28,7 @@ abstract: "During and after disasters, highways provide vital routes for
   that the proposed approach is capable of capturing the temporal patterns of
   disaster impacts on highways. Official news and reports are employed to
   validate the assessed impacts. "
-draft: false
+draft: true
 featured: false
 image:
   filename: highway-map.jpg
