@@ -30,10 +30,11 @@ abstract: Timely and reliable sensing of infrastructure conditions is critical
 draft: false
 featured: false
 projects:
-  - Infrastructure resilience enhancement
+  - Infrastructure resilience
 image:
   filename: showcase.jpg
   focal_point: ""
   preview_only: false
+  caption: Geographic distribution of electricity-related tweets
 date: 2021-01-11T02:04:30.500Z
 ---
