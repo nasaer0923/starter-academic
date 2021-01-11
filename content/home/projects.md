@@ -29,10 +29,6 @@ content:
     tag: '*'
   - name: Infrastructure Resilience
     tag: Infrastructure Resilience
-  - name: COVID-19
-    tag: COVID-19
-  - name: Damage Assessment
-    tag: Damage Assessment
   - name: Other
     tag: Other
 
