@@ -3,9 +3,12 @@ title: Infrastructure Resilience Enhancement
 date: 2021-01-11T03:19:45.465Z
 draft: false
 featured: false
+tags:
+  - Infrastructure Resilience
 external_link: https://www.yudi-chen.com/#contact
 image:
-  filename: featured
+  filename: showcase.jpg
   focal_point: Smart
   preview_only: false
+  caption: Research framework
 ---
