@@ -35,7 +35,7 @@ education:
     - course: Mechanical Engineering
       institution: Beihang Univeristy
       year: 2015
-    - course: Construction Project Management
+    - course: Civil Engineering
       institution: George Mason Univeristy
       year: 2021
 email: ""
