@@ -2,7 +2,7 @@
 title: Social Media-based Public Opinion Reasoning on Society Reopening Amid
   COVID-19 in the United States
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Yudi Chen
   - Yun Li
@@ -14,7 +14,7 @@ publication: Submitted to Internation Journal of Digital Earth
 draft: false
 featured: false
 projects:
-  - Society reopening amid COVID-19
+  - COVID-19
 image:
   filename: ""
   focal_point: Smart
