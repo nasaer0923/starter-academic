@@ -38,7 +38,7 @@ image:
   caption: Daily negative sentiment probability for the first two weeks
   focal_point: ""
   preview_only: false
-  filename: daily-negative-sentiment-probability.jpg
+  filename: featured.jpg
 date: 2020-01-11T01:58:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
