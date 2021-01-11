@@ -29,7 +29,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: A Bayesian-Based Approach for Public Sentiment Modeling
-doi: ""
+doi: 10.1109/WSC40007.2019.9004846
 featured: false
 tags: []
 projects:
