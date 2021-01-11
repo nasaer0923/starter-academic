@@ -5,7 +5,7 @@ bio: My research interests include infrastructure resilience, social and
   physical sensing, and big data analytics.
 interests:
   - Infrastrture resilience
-  - Human-cyber-phiscal system
+  - Human-cyber-physical system
   - Social media learning
   - Machine learning
 social:
