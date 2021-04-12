@@ -4,7 +4,7 @@ date: 2021-01-11T03:19:23.708Z
 draft: false
 featured: false
 tags:
-  - Other
+  - Damage Assessment
 image:
   filename: featured.jpg
   focal_point: Smart
