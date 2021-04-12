@@ -3,12 +3,13 @@ title: Condition Sensing for Electricity Infrastructures in Disasters by Mining
   Public Topics from Social Media
 publication_types:
   - "1"
+url_pdf: "https://arxiv.org/ftp/arxiv/papers/2103/2103.00708.pdf"
 authors:
   - Yudi Chen
   - Angel Umana
   - Chaowei Yang
-  - and Wenying Ji
-publication: Submitted to the 18th annual conference on Information Systems for Crisis Response and Management
+  - Wenying Ji
+publication: The 18th annual conference on Information Systems for Crisis Response and Management
 abstract: Timely and reliable sensing of infrastructure conditions is critical
   in disaster management for planning effective infrastructure restorations.
   Social media, a near real-time information source, has been widely used in
