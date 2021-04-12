@@ -4,13 +4,8 @@ title: Social Media-based Public Opinion Reasoning on Society Reopening Amid
 publication_types:
   - "2"
 authors:
-  - Yudi Chen
-  - Yun Li
-  - Zifu Wang
-  - Alma Joanna Quintero
-  - Chaowei Yang
-  - and Wenying Ji
-publication: Natural Hazards Review (In review)
+  - Yudi Chen; Yun Li; Zifu Wang; Alma Joanna Quintero; Chaowei Yang; Wenying Ji
+publication: *Natural Hazards Review (In review)*
 draft: false
 featured: false
 projects:
