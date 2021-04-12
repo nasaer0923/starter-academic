@@ -11,8 +11,9 @@ publication: Natural Hazards Review (Revision submitted)
 draft: false
 featured: false
 image:
-  filename: ""
-  focal_point: Smart
+  caption: Research Framework
+  focal_point: ""
   preview_only: false
+  filename: featured.jpg
 date: 2021-01-11T02:19:07.464Z
 ---
