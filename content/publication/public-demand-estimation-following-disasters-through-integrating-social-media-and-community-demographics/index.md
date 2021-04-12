@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Yudi Chen; Wenying Ji;
 author_notes: []
-publication: 2021 Winter Simulation Conference (WSC) (In review)
+publication: *2021 Winter Simulation Conference (WSC) (In review)*
 summary: ""
 url_dataset: ""
 url_project: ""
