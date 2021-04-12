@@ -1,12 +1,12 @@
 ---
 title: Yudi Chen
-role: PhD Candidate
+role: Ph.D. Candidate
 bio: Researcher for urban infrastructure resilience.
 interests:
-  - Infrastrture Resilience
-  - Human-Cyber-Physical System
-  - Social media Mining
-  - Machine Learning
+  - Infrastrture resilience enhancement
+  - Human mobility in disasters
+  - Social media mining
+  - Complex network modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hello, my name is Yudi Chen. Currently, I am a Ph.D. Candidate at the Department of Civil, Environmental, and Infrastructure Engineering, George Masson University. My research interest lies in the interplay between critical infrastructure and big data analytics. It could be categorized into two interrelated areas: (1) integrating social and physical sensing for enhanced infrastructure management in disasters and (2) understanding infrastructure-related public opinions to enhance community resilience.
+Hello, my name is Yudi Chen. Currently, I am a Ph.D. Candidate at the Department of Civil, Environmental, and Infrastructure Engineering, George Masson University. My research interest lies at the intersection amongst infrastructure resilience, network modeling, and big data analytics. It could be categorized into two interrelated areas: (1) Development of a data-driven decision support framework for assessing community vulnerability to natural hazards; and (2) Inclusion of human behavior to enhance infrastructure resilience from a social perspective.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
