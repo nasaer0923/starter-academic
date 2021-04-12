@@ -10,6 +10,8 @@ doi: ""
 publication: Natural Hazards Review (Revision submitted)
 draft: false
 featured: false
+projects:
+  - Damage Assessment
 image:
   caption: Research Framework
   focal_point: ""
