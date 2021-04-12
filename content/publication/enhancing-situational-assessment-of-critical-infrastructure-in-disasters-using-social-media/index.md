@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Yudi Chen and Wenying Ji
-publication: Submitted to Journal of Management in Engineering
+publication: Journal of Management in Engineering (Revision submitted)
 draft: false
 featured: false
 projects:
