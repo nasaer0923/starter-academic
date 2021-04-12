@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Yudi Chen; Qi Wang; and  Wenying Ji
 doi: https://doi.org/10.1061/(ASCE)ME.1943-5479.0000836
-publication: Journal of Management in Engineering
+publication: *Journal of Management in Engineering*
 abstract: A timely and reliable assessment of disaster impacts on highways is
   desired for executing evacuations, providing emergency services, and planning
   relief and recovery activities in disaster management. Although social media—a
@@ -25,7 +25,7 @@ abstract: A timely and reliable assessment of disaster impacts on highways is
 draft: false
 featured: true
 projects:
-  - Infrastructure resilience enhancement
+  - Infrastructure resilience
 image:
   filename: ""
   focal_point: Smart
