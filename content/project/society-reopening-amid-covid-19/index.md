@@ -3,7 +3,7 @@ date: 2021-01-11T02:22:44.917Z
 categories: []
 title: Society Reopening Amid COVID-19
 tags:
-  - Other
+  - COVID19
 links: []
 image:
   caption: ""
