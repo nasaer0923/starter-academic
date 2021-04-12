@@ -16,8 +16,9 @@ featured: false
 projects:
   - COVID-19
 image:
-  filename: ""
-  focal_point: Smart
+  caption: Spatiotemporal trends of negative sentiment probability (NPS)
+  focal_point: ""
   preview_only: false
+  filename: featured.jpg
 date: 2021-01-11T02:19:54.590Z
 ---
