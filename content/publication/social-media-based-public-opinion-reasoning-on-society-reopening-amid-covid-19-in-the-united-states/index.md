@@ -10,7 +10,7 @@ authors:
   - Alma Joanna Quintero
   - Chaowei Yang
   - and Wenying Ji
-publication: Submitted to International Journal of Digital Earth
+publication: Natural Hazards Review (In review)
 draft: false
 featured: false
 projects:
