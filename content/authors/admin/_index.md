@@ -1,9 +1,9 @@
 ---
 title: Yudi Chen
 role: Ph.D. Candidate
-bio: Researcher for urban infrastructure resilience.
+bio: Researcher of urban resilience.
 interests:
-  - Infrastrture resilience enhancement
+  - Infrastrture resilience
   - Human mobility in disasters
   - Social media mining
   - Complex network modeling
