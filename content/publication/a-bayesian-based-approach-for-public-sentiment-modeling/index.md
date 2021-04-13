@@ -1,5 +1,5 @@
 ---
-abstract: Public sentiment is a direct public-centric indicator for planning
+abstract: "Public sentiment is a direct public-centric indicator for planning
   effective actions. Despite its importance, the systematic and reliable
   modeling of public sentiment remains untapped in previous studies. This
   research aims to develop a Bayesian-based approach for quantitative public
@@ -13,7 +13,7 @@ abstract: Public sentiment is a direct public-centric indicator for planning
   sentiment probabilities with an application-based measure. A case study on
   Hurricane Harvey is provided to demonstrate the feasibility and applicability
   of the proposed approach. The developed approach also has the potential for
-  modeling all types of probability-based measures.
+  modeling all types of probability-based measures."
 slides: ""
 url_pdf: ""
 publication_types:
