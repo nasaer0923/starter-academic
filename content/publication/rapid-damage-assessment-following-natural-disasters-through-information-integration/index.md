@@ -1,6 +1,5 @@
 ---
-title: Rapid Damage Assessment Following Natural Disasters Through Information
-  Integration
+title: Rapid Damage Assessment Following Natural Disasters Through Information Integration
 publication_types:
   - "2"
 authors:
@@ -14,7 +13,7 @@ projects:
   - Damage Assessment
 image:
   caption: Research Framework
-  focal_point: ""
+  focal_point: smart
   preview_only: false
   filename: featured.jpg
 date: 2021-01-11T02:19:07.464Z
