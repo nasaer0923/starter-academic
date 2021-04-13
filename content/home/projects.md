@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Projects
 subtitle: ''
@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Infrastructure Resilience
     tag: Infrastructure Resilience
-  - name: Other
-    tag: Other
+  - name: Damage Assessment on Built Environment
+    tag: Damage Assessment on Built Environment
+  - name: COVID19
+    tag: COVID19
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
