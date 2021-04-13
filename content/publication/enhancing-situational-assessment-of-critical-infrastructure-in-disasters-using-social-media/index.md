@@ -10,10 +10,10 @@ abstract: Social media, a near-real-time information source, has been widely use
 draft: false
 featured: false
 projects:
-  - Infrastructure resilience
+  - Infrastructure Resilience
 image:
-  filename: featured
-  focal_point: Smart
+  filename: featured.jpg
+  focal_point: smart
   preview_only: false
 date: 2021-01-11T02:17:03.450Z
 ---
