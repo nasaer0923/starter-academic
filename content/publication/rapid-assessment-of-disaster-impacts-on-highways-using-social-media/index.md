@@ -25,9 +25,9 @@ abstract: A timely and reliable assessment of disaster impacts on highways is
 draft: false
 featured: true
 projects:
-  - Infrastructure resilience
+  - Infrastructure Resilience
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: "Geographic distributions of the three types of LDI for IH-45 on Aug. 29th "
