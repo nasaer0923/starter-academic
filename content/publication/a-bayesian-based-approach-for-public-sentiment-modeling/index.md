@@ -21,7 +21,7 @@ publication_types:
 authors:
   - Yudi Chen; Wenying Ji; Qi Wang
 author_notes: []
-publication: *Winter Simulation Conference (WSC) 2019*
+publication: In *2019 Winter Simulation Conference (WSC)*
 summary: ""
 url_dataset: ""
 url_project: ""
