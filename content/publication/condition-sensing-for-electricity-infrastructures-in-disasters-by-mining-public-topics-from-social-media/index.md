@@ -32,8 +32,8 @@ featured: false
 projects:
   - Infrastructure resilience
 image:
-  filename: showcase.jpg
-  focal_point: ""
+  filename: featured.jpg
+  focal_point: CENTER
   preview_only: false
   caption: Geographic distribution of electricity-related tweets
 date: 2021-01-11T02:04:30.500Z
