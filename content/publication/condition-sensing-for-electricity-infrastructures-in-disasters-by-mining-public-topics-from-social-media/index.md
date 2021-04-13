@@ -9,7 +9,7 @@ authors:
   - Angel Umana
   - Chaowei Yang
   - Wenying Ji
-publication: *2021 Annual Conference on Information Systems for Crisis Response and Management*
+publication: In *2021 Annual Conference on Information Systems for Crisis Response and Management*
 abstract: Timely and reliable sensing of infrastructure conditions is critical
   in disaster management for planning effective infrastructure restorations.
   Social media, a near real-time information source, has been widely used in
@@ -30,7 +30,7 @@ abstract: Timely and reliable sensing of infrastructure conditions is critical
 draft: false
 featured: false
 projects:
-  - Infrastructure resilience
+  - Infrastructure Resilience
 image:
   filename: featured.jpg
   focal_point: CENTER
